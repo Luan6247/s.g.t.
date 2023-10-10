@@ -1,2 +1,2 @@
 # s.g.t.
-atividade de um sistema de gerenciamento de tarefas.
+atividade de um site de gerenciamento de tarefas.
